@@ -1,4 +1,4 @@
-# -*- codin g: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 INSTALLED_ADDONS = [
     # <INSTALLED_ADDONS>  # Warning: this is auto-generated. Manual changes will be overwritten.
